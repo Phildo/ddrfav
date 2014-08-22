@@ -1,0 +1,17 @@
+Used for quickly finding/favoriting songs in stepmania. Configure with your own stepmania songs folder and favs folder. (Note- this literally just searches the songs folder, and copies and pastes the result into the favs folder.)
+
+Example Usage:
+
+    ~$ ddrfav bubble
+    1. DDR4EVER 03rd Mix/Hanky panky (Bubble Mix)
+    2. DDR4EVER 03rd Mix/Happy toyboys (Bubble Mix)
+    3. DDR4EVER 04th Mix/Bubble bobble
+    4. DDR4EVER 13th Mix -ULTRAMIX-/BUBBLE POP ELECTRINIC - Gwen Stefani feat. Johnny Vulture
+    5. In The Groove/Bubble Dancer
+    6. In The Groove 2/Soapy Bubble
+    Which song (1-6)? (0 for quit)
+    5
+    ~$
+
+That's it!
+
